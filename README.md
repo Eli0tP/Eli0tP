@@ -6,6 +6,7 @@
   et rédaction de documentation technique
 - 🎓 Parcours : Bachelor ECE (Rennes, puis semestre à l'Université de Malte, puis Paris), Bac Maths & NSI
 - 🎨 Intéressé par le développement web, l'UX/UI et les jeux vidéo
+- 🌐 Portfolio : [eli0tp.github.io](https://eli0tp.github.io)
 - 📫 Contact : eliot.pechadre@gmail.com
 
 ## Technologies
